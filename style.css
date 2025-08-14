@@ -1,0 +1,49 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+
+}.Custom-nav{
+    padding-left: 80px;
+}
+
+.Coustom-img{
+    padding-top: 150px;
+     height: 900px;
+    transform: rotate(30deg);
+}
+.Custom-header{
+    overflow: hidden;
+}
+.Custom-head{
+    font-size: 20px !important;
+    
+}
+.Custom-icon{
+    margin-left: 20px;
+    font-size: 50px;
+    color: rgb(240, 90, 115);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.Coustom-img1{
+    height: 150px;
+    border-radius: 50% !important;
+   margin-left: 400px;
+  
+}
+.CustomIcon{
+
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+}
+.Icons{
+    margin-left: 40px;
+}
